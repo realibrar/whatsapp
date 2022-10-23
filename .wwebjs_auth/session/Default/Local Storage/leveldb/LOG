@@ -1,3 +1,3 @@
-2022/10/23-21:10:14.329 b48 Reusing MANIFEST C:\nd\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2022/10/23-21:10:14.330 b48 Recovering log #3
-2022/10/23-21:10:14.330 b48 Reusing old log C:\nd\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2022/10/23-22:03:30.950 2310 Reusing MANIFEST C:\nd\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2022/10/23-22:03:30.962 2310 Recovering log #3
+2022/10/23-22:03:30.963 2310 Reusing old log C:\nd\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
